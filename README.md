@@ -1,5 +1,7 @@
 <h1>🛰️ Segmentation of Urban Spatial Order: Street Network Orientation, Configuration, and Entropy</h1>
 
+![Flux_Dev_A_sprawling_intricate_street_network_with_layered_roa_0](https://github.com/user-attachments/assets/704d1544-0758-40bd-a7b3-0b16e7865533)
+
 <h2>📌 Project Overview</h2>
 <p>
 This project focuses on Clustering of Urban spatial order: street network orientation, configuration, and entropy. This project is based on a research paper which was published on 23rd August, 2019. The primary goal of this project is to understand K-Means and Hierarchical clustering techniques. Additionally, we also focus on concepts like silhouette coefficient and elbow method.
